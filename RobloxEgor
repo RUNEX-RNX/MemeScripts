@@ -55,5 +55,11 @@ loadstring(game:HttpGet("https://pastebin.com/raw/Rfvfbi26"))();
 })
 
 
+local Tab = Window:CreateTab("LoL System", "tablet-smartphone")
 
-
+local Button = Tab:CreateButton({
+   Name = "LoL System",
+   Callback = function()
+loadstring(game:HttpGet("", true))()
+   end,
+})
