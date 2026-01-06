@@ -1,5 +1,5 @@
 # Meme Scripts
-Here are collected meme scripts from TikTok and YouTube
+Here are collected scripts from TikTok and YouTube
 scripts below
 <!-- PROJECT LOGO -->
    <img src="https://github.com/RUNEX-RNX/Images/blob/main/IMG_20251226_195143.jpg" alt="Logo" width="300" height="200">
